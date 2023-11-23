@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>QR코드를 이용한 장비 검색</title>
+</head>
+<body>
+    <h1>QR코드를 이용한 장비 검색</h1>
+    <div id="interactive" class="viewport"></div>
+    <div id="dataContainer"></div>
+
+    <script src="https://cdn.rawgit.com/serratus/quaggaJS/0.12.1/dist/quagga.min.js"></script>
+    <script src="https://apis.google.com/js/api.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>
